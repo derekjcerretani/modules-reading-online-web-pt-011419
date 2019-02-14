@@ -20,6 +20,7 @@ end
 =end
 
 class Kid
+  include Dance
   extend FancyDance::ClassMethods
   include FancyDance::InstanceMethods
 end
