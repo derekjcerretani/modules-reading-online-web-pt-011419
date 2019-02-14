@@ -9,7 +9,7 @@ class Dancer
   def initialize(name)
     @name = name
   end
-  
+
 end
 =end
 
